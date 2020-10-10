@@ -27,3 +27,6 @@ public class problem9 {
            }
 	}
 }
+/*output
+31875000
+*/

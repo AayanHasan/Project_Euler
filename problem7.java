@@ -30,3 +30,6 @@ public class problem7 {
 	     }
 	}
 }
+/*output
+104743
+*/

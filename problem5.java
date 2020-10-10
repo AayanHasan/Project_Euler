@@ -25,3 +25,6 @@ public class problem5 {
 	}
 
 }
+/*output
+232792560
+*/

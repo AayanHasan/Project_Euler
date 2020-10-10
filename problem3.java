@@ -17,3 +17,6 @@ public class problem3 {
 	System.out.println(n);
 	}
 }
+/*output
+6857
+*/

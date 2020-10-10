@@ -15,3 +15,6 @@ public class problem1 {
 		System.out.println(s);
 	}
 }
+/*output
+233168.0
+*/

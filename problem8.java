@@ -48,3 +48,6 @@ public class problem8 {
 
 	}
 }
+/*output
+23514624000
+*/

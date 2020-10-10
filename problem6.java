@@ -19,3 +19,6 @@ public class problem6 {
 	}
 
 }
+/*output
+25164150
+*/
